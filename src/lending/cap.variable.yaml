@@ -1,4 +1,6 @@
 # How many devices one person may hold at a time.
+key: lending/limit
+title: Lending cap
 schemaVersion: 1
 
 body:
