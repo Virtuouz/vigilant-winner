@@ -1,0 +1,4 @@
+schemaVersion: 1
+body:
+  description: How many days a loan lasts unless the desk says otherwise.
+  default: "14"
