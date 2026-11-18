@@ -3,4 +3,4 @@ schemaVersion: 1
 
 body:
   description: The most devices one person may have out.
-  default: "9" # exam weeks
+  default: "8" # exam weeks
