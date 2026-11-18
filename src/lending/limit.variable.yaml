@@ -1,0 +1,6 @@
+# How many devices one person may hold at a time.
+schemaVersion: 1
+
+body:
+  description: The most devices one person may have out.
+  default: "5" # raised for exam weeks
