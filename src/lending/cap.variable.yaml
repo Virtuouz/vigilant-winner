@@ -1,6 +1,8 @@
 # How many devices one person may hold at a time.
+key: lending/limit
+title: Lending cap
 schemaVersion: 1
 
 body:
   description: The most devices one person may have out.
-  default: "5" # raised for exam weeks
+  default: "8" # raised for exam weeks
